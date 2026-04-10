@@ -79,6 +79,8 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 
 ## Music Generation & AI
 
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI
+
 - [AudioCraft](https://github.com/facebookresearch/audiocraft): Meta's library for MusicGen AudioGen EnCodec and MAGNeT models
 - [Stable Audio Tools](https://github.com/Stability-AI/stable-audio-tools): Generative models for conditional audio generation from Stability AI
 - [Riffusion](https://github.com/riffusion/riffusion-hobby): Real-time music generation using stable diffusion on spectrograms
